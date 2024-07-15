@@ -1,6 +1,6 @@
 ## AWS_DEVOPS_HANDS_ON
 
-### This repository is aimed at providing step-by-step guides and tutorials for various Cloud and DevOps tools and services. Whether you are preparing for an interview, learning a new technology, or seeking to enhance your practical skills, these documents will be a valuable resource.
+### This repository is aimed at providing step-by-step guides and tutorials for various Cloud and DevOps tools and services.
 
 ### The repository includes hands-on documents for the following topics:
 
